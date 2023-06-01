@@ -57,7 +57,7 @@ const Forms = () => {
         <input
           className="form-control"
           type="text"
-          placeholder="instagram username" // insert your username form instagram for render your pic
+          placeholder="instagram username" // insert your instagram username for render your pic
           onChange={(e) => setProfile(e.target.value)}
         ></input>
       </div>
